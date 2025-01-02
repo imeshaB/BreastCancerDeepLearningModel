@@ -1,2 +1,0 @@
-Training and Testing Dataset: https://data.mendeley.com/datasets/jxwvdwhpc2/1
-Validation Dataset:https://www.kaggle.com/datasets/ambarish/breakhis
